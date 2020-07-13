@@ -4,7 +4,7 @@ Contributing to ...
 *******************
 
 
-Thank you for investing your time in the R-testbench project!
+Thank you for investing your time in the ... project!
 
 To make the evolution and the version history easier to read and to understand, the project follows some rules.
 Please read them carefully before contributing.
