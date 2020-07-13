@@ -13,13 +13,9 @@ Welcome to gitrepo-template's documentation!
 	:alt: Documentation Status
 
 
-.. mdinclude:: ../../README.md
-
 .. toctree::
 	:maxdepth: 2
 	:caption: Contents:
-
-	../../README.md
 
 
 

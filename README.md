@@ -1,9 +1,23 @@
 # gitrepo-template
 
-This repository can be used as a template to create other GitHub repositories.
+<h2 align="center">The absolute template</h2>
+
+<p align="center">
+	<a href='https://gitrepo-template.readthedocs.io/en/latest/?badge=latest'>
+		<img src='https://readthedocs.org/projects/gitrepo-template/badge/?version=latest' alt='Documentation Status' />
+	</a>
+</p>
 
 
-## Options
+This __gitrepo-template__ can be used as a template to create other GitHub repositories.
+It helps users to start a proper repository including files for Community (e.g., license and contributing guideline),
+as well as 'professional' documentation built with Sphinx.
+
+
+---
+
+
+## Repository options
 
 To let the user choose or tune the repository:
 
@@ -11,7 +25,7 @@ To let the user choose or tune the repository:
 - the license file is empty.
 
 
-## Documentation
+## Building the documentation
 
 The documentation is built with Sphinx, in the 'docs' folder.
 This way, the user can easily connect the GitHub repository to [ReadTheDocs](https://readthedocs.org/).
