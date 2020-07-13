@@ -4,8 +4,9 @@
    contain the root `toctree` directive.
 
 
-Welcome to gitrepo-template's documentation!
-============================================
+################
+gitrepo-template
+################
 
 
 .. image:: https://readthedocs.org/projects/gitrepo-template/badge/?version=latest
@@ -17,5 +18,9 @@ Welcome to gitrepo-template's documentation!
 	:maxdepth: 2
 	:caption: Contents:
 
-
+.. toctree::
+	:caption: Contributing
+	:maxdepth: 1
+	
+	contributing
 
