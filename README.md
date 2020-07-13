@@ -14,6 +14,7 @@ To let the user choose or tune the repository:
 ## Documentation
 
 The documentation is built with Sphinx, in the 'docs' folder.
+This way, the user can easily connect the GitHub repository to [ReadTheDocs](https://readthedocs.org/).
 The following features have been set:
 
 - build and source folders are separated;

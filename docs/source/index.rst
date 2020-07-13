@@ -3,12 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Welcome to gitrepo-template's documentation!
 ============================================
+
+
+.. image:: https://readthedocs.org/projects/gitrepo-template/badge/?version=latest
+	:target: https://gitrepo-template.readthedocs.io/en/latest/?badge=latest
+	:alt: Documentation Status
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+
+.. mdinclude:: ../../README.md
 
 
 
