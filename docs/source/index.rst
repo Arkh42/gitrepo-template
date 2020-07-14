@@ -19,8 +19,8 @@ gitrepo-template
 	:caption: Contents:
 
 .. toctree::
-	:caption: Contributing
+	:caption: Community
 	:maxdepth: 1
 	
 	contributing
-
+	changelog
